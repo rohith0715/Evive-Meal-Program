@@ -1,0 +1,42 @@
+if(meal == “Breakfast){
+	for(int i = 0; i < arr.size(); i++){
+	if(arr[i] == “1”){
+	System.out.print(“Eggs”)
+}
+Else if(arr[i] == “2”){
+	System.out.print(“Toast”)
+}
+Else if(arr[i] == “3”){
+	System.out.print(“Coffee”)
+}
+}
+}
+Else if (meal == “Lunch”){
+	for(int i = 0; i < arr.size(); i++){
+	if(arr[i] == “1”){
+	System.out.print(“Sandwich”)
+}
+Else if(arr[i] == “2”){
+	System.out.print(“Chips”)
+}
+Else if(arr[i] == “3”){
+	System.out.print(“Soda”)
+}
+}
+}
+Else if(meal == “Dinner”){
+	for(int i = 0; i < arr.size(); i++){
+	if(arr[i] == “1”){
+	System.out.print(“Steak”)
+}
+Else if(arr[i] == “2”){
+	System.out.print(“Potatoes”)
+}
+Else if(arr[i] == “3”){
+	System.out.print(“Wine”)
+}
+Else if(arr[i] == “4”){
+	System.out.print(“Cake”)
+}
+}
+}
